@@ -15,7 +15,7 @@ const CTASection = () => (
       <Link
         aria-label="Deploy to Vercel"
         isExternal
-        href="https://vercel.com/import/git?s=https://github.com/sozonome/vite-react-chakra-starter"
+        href="pinhome-consumer-app:///app/mortgage-promo-detail%3Fguid=8801ca40-4dfd-4fb1-b135-3326abbfbed4%26applyForTakeOver%3Dtrue"
       >
         <Image src="https://vercel.com/button" alt="Vercel deploy button" />
       </Link>

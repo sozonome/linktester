@@ -15,7 +15,7 @@ const CTASection = () => (
       <Link
         aria-label="Deploy to Vercel"
         isExternal
-        href="pinhome-consumer-app:///app/mortgage-promo-detail%3Fguid=8801ca40-4dfd-4fb1-b135-3326abbfbed4%26applyForTakeOver%3Dtrue"
+        href="pinhome-consumer-app:///app/mortgage-promo-detail?guid=8801ca40-4dfd-4fb1-b135-3326abbfbed4&applyForTakeOver=true"
       >
         <Image src="https://vercel.com/button" alt="Vercel deploy button" />
       </Link>

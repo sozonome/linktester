@@ -8,8 +8,13 @@ export const theme = extendTheme({
     body: "Plus Jakarta Sans, sans-serif",
   },
   components: {
-    // Button: {
-    // }
+    Button: {
+      sizes: {
+        md: {
+          borderRadius: 24,
+        },
+      },
+    },
   },
   config,
 });

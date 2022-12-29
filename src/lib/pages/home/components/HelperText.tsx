@@ -8,7 +8,8 @@ const HelperText = () => {
     <Tooltip label={label}>
       <Text fontSize="xs" color="gray" textAlign="center">
         This is helpful to test deep link or app link or app scheme url which
-        cannot be copy pasted to other app to be clicked / tested.
+        cannot be copy pasted to other app to be clicked / tested. Make sure the
+        app is already installed if testing deep link / app url.
       </Text>
     </Tooltip>
   );

@@ -9,7 +9,8 @@ const HelperText = () => {
       <Text fontSize="xs" color="gray" textAlign="center">
         This is helpful to test deep link or app link or app scheme url which
         cannot be copy pasted to other app to be clicked / tested. Make sure the
-        app is already installed if testing deep link / app url.
+        app is already installed if testing deep link / app url and being opened
+        in the background (still figuring out why, hit me up if you know).
       </Text>
     </Tooltip>
   );

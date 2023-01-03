@@ -1,23 +1,11 @@
-# vite-react-chakra-starter
+<img src="https://og.sznm.dev/api/generate?heading=linktester&text=mini%20web%20app%20for%20testing%20app%20url%20in%20android&template=color&center=true&height=330" />
 
-This is a project bootstrapped with [`@vitejs/app`](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) (`react-ts`), added with [Chakra UI](https://chakra-ui.com) and [TypeScript](https://www.typescriptlang.org) setup.
-
-- ⚡ blazing fast dev server and build
-- 🔗 route management added (`react-router-dom` configured)
-
-[**Live Demo**](https://vite-react-chakra-starter.sznm.dev/)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/sozonome/vite-react-chakra-starter) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/vite-react-chakra-starter)
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/sozonome/vite-react-chakra-starter)
+[**Live App**](https://linktester.sznm.dev/)
 
 ## Getting Started
 
-You can either click [`Use this template`](https://github.com/sozonome/vite-react-chakra-starter/generate) button on this repository and clone the repo or use npx degit like so:
-
-```bash
-npx degit sozonome/vite-react-chakra-starter <app_name>
-```
+1. Clone this repo.
+2. Install the dependencies
 
 Then, run the development server:
 
